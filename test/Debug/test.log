@@ -1,0 +1,3 @@
+﻿  test  10-4.c
+D:\test\test\test  10-4.c(75,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+  test.vcxproj -> D:\test\test\Debug\test.exe
