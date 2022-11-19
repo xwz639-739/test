@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C Prime Plus part4", "C Prime Plus part4.vcxproj", "{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Debug|x64.ActiveCfg = Debug|x64
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Debug|x64.Build.0 = Debug|x64
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Debug|x86.ActiveCfg = Debug|Win32
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Debug|x86.Build.0 = Debug|Win32
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Release|x64.ActiveCfg = Release|x64
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Release|x64.Build.0 = Release|x64
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Release|x86.ActiveCfg = Release|Win32
+		{F58A306A-2E42-4EE4-84D9-1ECB96EAEC73}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F62ACCE-B103-488D-A0C6-2300364F0ADE}
+	EndGlobalSection
+EndGlobal

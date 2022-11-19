@@ -1,0 +1,3 @@
+﻿  C PRIME PLUS part5 .c
+D:\CPP\C PRIME PLUS part5\C PRIME PLUS part5 .c(135,20): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+  C PRIME PLUS part5.vcxproj -> D:\CPP\C PRIME PLUS part5\Debug\C PRIME PLUS part5.exe
